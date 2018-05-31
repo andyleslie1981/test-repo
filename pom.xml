@@ -23,6 +23,10 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 	</properties>
+	
+	<scm>        
+    		<connection>scm:git:https://github.com/andyleslie1981/test-repo.git</connection>
+	</scm>
 
 	<dependencies>
 		<dependency>
